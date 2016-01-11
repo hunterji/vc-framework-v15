@@ -1,4 +1,6 @@
-# VC_Framework v14
+# VC_Framework v15
+This has been copied from our [v14](https://github.com/hunterji/vc-framework-v14) fork (but github won't let you fork from yourself).
+
 
 ## What's New?
 
@@ -13,15 +15,15 @@ The VC_Framework component facilitates automatic export of all methods and forms
 Methods are exported as plain text files.
 Forms are exported as JSON text files.
 
-Note: 4D v14 is REQUIRED.  Furthermore if you get errors about "unnamed" objects, you need at least 14.2.
+Note: 4D v15 is REQUIRED.
 
 
 ## Contents
 
-* The [Components](https://github.com/4D/vc-framework-v14/tree/master/Components) folder contains:
-    * The "VC_Framework.4dbase" component suitable for installation in any [4D v14](http://www.4d.com/products/4dv14.html) database.
+* The [Components](https://github.com/hunterji/vc-framework-v15/tree/master/Components) folder contains:
+    * The "VC_Framework.4dbase" component suitable for installation in any [4D v15](http://www.4d.com/) database.
     * The "prog.4dbase" component, which extends 4D's Progress module to include a threshold for progress bar display. 
-* The [matrix](https://github.com/4D/vc-framework-v14/tree/master/matrix) folder contains the component source code.
+* The [matrix](https://github.com/hunterji/vc-framework-v15/tree/master/matrix) folder contains the component source code.
 
 
 ## Usage
